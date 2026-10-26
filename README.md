@@ -29,8 +29,6 @@ Built a multi-agent Python workflow that researches content opportunities, gener
 
 📍 New York  
 
-🔗 [LinkedIn](YOUR_LINKEDIN_URL) · [Resume](YOUR_RESUME_URL)
-
 <!--
 **jonathanjackson-1/jonathanjackson-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
